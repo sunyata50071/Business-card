@@ -1,3 +1,5 @@
+Deployed on Netlify: amazing-yeot-c31a0f.netlify.app
+
 # Getting Started
 Install the dependencies and run the project
 ```
